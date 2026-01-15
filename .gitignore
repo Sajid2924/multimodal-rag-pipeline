@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / generated data artifacts
+data/faiss.index
+data/metadata.json
+data/chunks.json
+data/chunked.json
+
+# data/raw_data.pdf
+
+# IDE files
+.vscode/
+.idea/

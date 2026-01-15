@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+pdfplumber
+pymupdf
+pillow
+pytesseract
+rank-bm25
+openai
