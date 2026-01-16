@@ -75,7 +75,7 @@ def extract_images_with_ocr(pdf_path):
             )
             results.append({
                 "content": combined_text,
-                "modality": "figure",
+                "modality": "image",
                 "page": page_num
             })
     return results
